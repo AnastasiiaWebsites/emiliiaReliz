@@ -1,0 +1,101 @@
+body {
+    font-family: sans-serif;
+    background-color:#F2F2F2 ;
+}
+header img{
+    height: 30px;
+    width: 30px;
+}
+
+.dominos {
+     height: 130px;
+    width: 200px;
+}
+h4{
+    text-align: center;
+}
+header{
+    background-color:#6F6F6F;
+    font-family: Bold Italic;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+
+}
+main p {
+     text-align: center;
+}
+
+footer{
+    font-family: Ingrid Darling ;
+    background-color:#6F6F6F;
+    padding: 3px;
+    margin: 3px;
+    
+}
+ header a {
+     color:white;
+    font-size: 20px;
+    border-radius: 20px;
+      padding: 5px;
+    margin: 5px;
+    background-color: rgba(65, 47, 62, 0.459);
+ }
+ 
+ h2 {
+    color: white;
+     text-align: center;
+     background-image: linear-gradient(to right bottom, lightblue, rgb(179, 87, 87), rgb(129, 166, 179));
+ }
+ h1 {
+    text-align: center;
+ }
+ .div {  
+display: flex;
+justify-content: center ;
+
+
+ }
+ .png{
+    text-align: center;
+height: 400px;
+   width: 790px;
+    border-radius: 20px;
+    
+ }
+ main a {
+     color:rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 20px;
+      padding: 2px;
+    margin: 2px;
+ } 
+ .pizza {
+    display: flex;
+    width: 1000px;
+    flex-wrap: wrap;
+}
+
+.pizza img:hover {
+    opacity:1;
+    margin: 10px;
+    border: 3px dotted ;
+    
+}
+.pizza img {
+    margin: 10px;
+    width:310px;
+   height: 310px;
+}
+div p {
+    font-size: 20px;
+}
+a {
+     color:white;
+    font-size: 20px;
+    border-radius: 20px;
+      padding: 2px;
+    margin: 2px;
+    background-color: rgba(65, 47, 62, 0.459);
+    text-align: center;
+}
